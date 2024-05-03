@@ -1,6 +1,6 @@
 # FRC-PH-LHC
 
-If these code help in your work, please do consider citing
+If this code helps in your work, please do consider citing following articles.
 
 @article{beuria2023persistent,
   title={Persistent homology of collider observations: When (w) hole matters},
